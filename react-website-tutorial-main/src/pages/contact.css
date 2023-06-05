@@ -1,0 +1,60 @@
+@import url('https://fonts.google.com/specimen/Manrope?query=manrope');
+@import url('https://fonts.google.com/specimen/Staatliches?preview.text=Stolzl&preview.text_type=custom&category=Display');
+@import url('https://fonts.google.com/specimen/Inter?preview.text=Stolzl&preview.text_type=custom&query=inter');
+@import url('https://fonts.google.com/specimen/Roboto');
+.img{
+    height: 50px;
+    position: relative;
+    left: 30px;
+}
+.menu{
+   position: relative;
+   left:480px;
+   height: 50px;
+   font-size: larger;
+
+}
+.books{
+    text-align: center;
+    position: relative;
+    top: 50px;  
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+
+}
+.sec-1{
+    position: relative;
+    top:50px;
+    left: 0px;
+   background-color: #e9e9f9;
+   height: 1500px;
+   width: 1500px;
+   font-family: 'Roboto', sans-serif;
+
+}
+.cards{
+    position: relative;
+    top:100px;
+    left:150px;
+    width: 10px;
+    padding: 0%;
+}
+.cards-1{
+    position: relative;
+    top: -420px;
+    left: 700px;
+
+
+}
+.cards2{
+    position: absolute;
+    left:10px;
+    top:570px;
+
+}
+.cards4{
+    position: absolute;
+    top:0px;
+    left:-630px;
+
+}

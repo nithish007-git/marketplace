@@ -1,0 +1,39 @@
+@import url('https://fonts.google.com/specimen/Manrope?query=manrope');
+@import url('https://fonts.google.com/specimen/Staatliches?preview.text=Stolzl&preview.text_type=custom&category=Display');
+@import url('https://fonts.google.com/specimen/Inter?preview.text=Stolzl&preview.text_type=custom&query=inter');
+@import url('https://fonts.google.com/specimen/Roboto');
+.img{
+    height: 50px;
+    position: relative;
+    left: 30px;
+}
+.menu{
+   position: relative;
+   left:480px;
+   height: 50px;
+   font-size: larger;
+
+}
+.sec1{
+    position: relative;
+    top:110px;
+   left:16cm;
+   font-size: 40px;
+}
+.cards1{
+    position: absolute;
+    left:-450px;
+    top: 140px;
+    height: 330px;
+    width: 550px;
+}
+.cards2{
+    position: absolute;
+    left:180px;
+    top:140px;
+    height: 330px;
+    width: 550px;
+}
+.text{
+    font-size: larger ;
+}
